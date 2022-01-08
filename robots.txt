@@ -1,5 +1,5 @@
 Allow
 Crawl-delay: 
-Sitemap: https://www.iglooenergyreferral.co.uk/sitemap.xml
+Sitemap: https://www.octopus-energy-referral-code.co.uk/sitemap.xml
 User-agent: *
 Allow :/
