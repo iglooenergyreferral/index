@@ -1,5 +1,5 @@
 Allow
 Crawl-delay: 
-Sitemap: https://www.octopusreferral.energy/sitemap.xml
+Sitemap: https://octopusreferral.energy/sitemap.xml
 User-agent: *
 Allow :/
